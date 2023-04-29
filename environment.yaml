@@ -1,0 +1,14 @@
+channels:
+    - conda-forge
+    - defaults
+    - nvidia
+    - pytorch
+dependencies:
+    - cudatoolkit=11.1
+    - imageio
+    - ipython
+    - matplotlib
+    - pytorch
+    - scikit-image
+    - torchvision
+name: convnet_tutorials
