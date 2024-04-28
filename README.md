@@ -1,4 +1,4 @@
-# Convolutional Network Tutorials (AMMI 2023)
+# Convolutional Network Tutorials (AMMI 2024)
 
 These are the tutorials for the Convolutional Neural Networks class of the African Master's in Machine Intelligence given by Laurens van der Maaten.
 
