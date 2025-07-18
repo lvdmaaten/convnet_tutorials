@@ -1,6 +1,6 @@
-# Convolutional Network Tutorials (AMMI 2024)
+# Convolutional Network Tutorials (AMMI 2025)
 
-These are the tutorials for the Convolutional Neural Networks class of the African Master's in Machine Intelligence given by Laurens van der Maaten.
+These are the tutorials for the Computer Vision class of the African Master's in Machine Intelligence given by Laurens van der Maaten.
 
 The tutorials are iPython Notebooks in which you have to implements missing parts of the code yourself, run small experiments, and answer questions about the results of your experiments. The notebooks should be self-contained.
 
